@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="style.css">
+<html>
+<head>
+    <title>Технологии и детская психика</title>
+</head>
+<body>
+    <h1 ALIGN="CENTER">Технологии и детская психика</h1>
+    <h1 ALIGN="CENTER">Каким же образом технологии влияют на наш мир, а в частности, на подрастающее поколение? Сейчас разберёмся!</h1>
+    <P ALIGN="CENTER">
+		<img  src="https://i.ytimg.com/vi/TlJF2Ne_nm4/maxresdefault.jpg" alt="Image 1" width="1400" height="850"   vertical-align: middle>
+	</P>
+    <br>
+    <hr>
+    <p>
+        Главной проблемой 21 века является интернет зависимсть, но в последние годы эта проблема прогрессирует, в том числе, за счёт развития искутвенного интелекта.
+        Многие думают, что в испоьзовании технологий нет никакой проблемы, но на самом деле это неверный взгляд на вещи. Черезмерное злоупотребление 
+        ИИ в раннем возрасте приводит к когнетивной отсталости и ментальной незрелости, что уже приводит к появлению  реальных  психических  заболеваний.
+        Многие из них могут приводить к будущим проблемам в социуме и на работе. Это лишь малая часть проблемы, об этом поговорим на следующей неделе
+    </p>
+    <h2>В следующей статье...</h2>
+             <ul>
+                   <li>Проблемы будущего поколения</li>
+                   <li>Опастность нейросетей</li>
+                   <li>Ужасы подпольных майнеров</li>
+                   <li>Туманное будущее лачуги</li>
+                   <li>Демографические проблемы человечества</li>
+             </ul>
+    <iframe src="https://www.meteoblue.com/en/weather/widget/daily/?geoloc=detect&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&precipunit=MILLIMETER&days=4&coloured=coloured&pictoicon=1&maxtemperature=1&mintemperature=1&windspeed=1&windgust=1&winddirection=1&uv=1&humidity=1&precipitation=1&precipitationprobability=1&spot=1&pressure=1&layout=light&user_key=129d433ff5a1e48e&embed_key=c3c3c941b583be50&sig=4623c087e22c3c5a69aa92ad4e425737f91067e59b1bfb9880e06a581affefe4" frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 216px;height: 439px;border: 0;overflow: hidden;"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/en/weather/week/index" target="_blank" rel="noopener">meteoblue</a></div>
+</body>
+</html> 
