@@ -1,0 +1,23 @@
+body {
+    font-family: Arial,  sans-serif; /* Семейство шрифтов */
+    font-size: 28px; /* Размер основного шрифта в <p></p>  */
+    color: #333333; /* Цвет основного текста */ 
+    background-color: #b3e6fc;
+}
+h1 {
+    color: #111111; /* Цвет заголовка */
+    font-size: 20px; /* Размер шрифта в пунктах */
+    font-family: Georgia, serif; /* Семейство шрифтов */
+    animation: color-change 3s infinite;
+    animation: font-resize 5s infinite;
+}
+@keyframes color-change {
+  0%   { color: blue; }
+  50%  { color: red; }
+  100% { color: blue; }
+}
+@keyframes font-resize {
+    0% { font-size: 20px; }
+    50% { font-size: 30px; }
+    100% { font-size: 20px; }
+}
